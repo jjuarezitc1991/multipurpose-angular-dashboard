@@ -1,0 +1,9 @@
+:host {
+    display: block;
+    background-color: #B30000;
+}
+
+#logo {
+    height: 45px;
+    padding: 5px;
+}
